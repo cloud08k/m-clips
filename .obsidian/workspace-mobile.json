@@ -11,10 +11,14 @@
             "id": "22e4ce06c060a945",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/四千万歩の先で、僕はエッセイをつらつら綴る｜相生エッセイ.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "四千万歩の先で、僕はエッセイをつらつら綴る｜相生エッセイ"
             }
           }
         ]
@@ -172,6 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5697bc6bc71618e",
-  "lastOpenFiles": []
+  "active": "22e4ce06c060a945",
+  "lastOpenFiles": [
+    "Clippings/四千万歩の先で、僕はエッセイをつらつら綴る｜相生エッセイ.md",
+    "Clippings"
+  ]
 }

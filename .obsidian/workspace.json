@@ -11,10 +11,14 @@
             "id": "b53597f00c21d4c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Obsidian内でClaudeCodeが使えるプラグイン「Claudian」で一変して快適に｜sutero（ステロ）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Obsidian内でClaudeCodeが使えるプラグイン「Claudian」で一変して快適に｜sutero（ステロ）"
             }
           }
         ]
@@ -188,5 +192,18 @@
     }
   },
   "active": "b53597f00c21d4c1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Clippings/「拡散的思考」は、AI時代のチートスキルだよ｜AI教室 Link Lab.md",
+    "{{image}}.md",
+    "Clippings/【喋るだけ】AIを「自分の分身」にする方法｜AI×ナレッジ構築シリーズ第3回｜まき.md",
+    "Clippings/Pocket終了に備えてObsidian Web Clipperに移行した話.md",
+    "Clippings/Obsidianとターミナルを連携してClaudeCode、Codex、Geminiを使う｜イージーテック.md",
+    "Clippings/Obsidian BasesとWeb ClipperでWebリンクのサムネイル付きカードビューが簡単に作れます｜teatown.md",
+    "Clippings/Claude × Obsidian で「感情の跡」を残す仕組みを作る.md",
+    "Clippings/ChatGPTでアイデア出しを無限に広げる方法【プロンプト例付き】.md",
+    "Clippings/AIは「思考停止」の道具じゃない。「思考を拡張」させるためのブースターだ。【アイデア拡散プロンプト付】｜佐藤旭｜40代の「AI×コンテンツ集客」専門家.md",
+    "Clippings/AIのアイデア出しが微妙なので、geminiと相談してアイデア出しの手法を確立させる｜S.H.normal.md",
+    "Clippings/AIに「あなたらしい文章」を書いてもらう秘訣！ ｜AI×ナレッジ構築シリーズ2回｜まき.md",
+    "Clippings/1ヶ月で生産性10倍の衝撃！｜AI×ナレッジ構築シリーズ1回｜まき.md"
+  ]
 }

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/「拡散的思考」は、AI時代のチートスキルだよ｜AI教室 Link Lab.md",
+                "file": "Clippings/Obsidian内でClaudeCodeが使えるプラグイン「Claudian」で一変して快適に｜sutero（ステロ）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "「拡散的思考」は、AI時代のチートスキルだよ｜AI教室 Link Lab"
+              "title": "Obsidian内でClaudeCodeが使えるプラグイン「Claudian」で一変して快適に｜sutero（ステロ）"
+            }
+          },
+          {
+            "id": "7869c29863733dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "memo/Obsidianモバイルメモ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidianモバイルメモ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,10 +191,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22e4ce06c060a945",
+  "active": "7869c29863733dbc",
   "lastOpenFiles": [
-    "Clippings/「拡散的思考」は、AI時代のチートスキルだよ｜AI教室 Link Lab 1.md",
+    "Clippings/Obsidian内でClaudeCodeが使えるプラグイン「Claudian」で一変して快適に｜sutero（ステロ）.md",
+    "memo/Obsidianモバイルメモ.md",
+    "memo",
+    "{{image}}.md",
     "Clippings/「拡散的思考」は、AI時代のチートスキルだよ｜AI教室 Link Lab.md",
+    "/Clippings/Obsidian内でClaudeCodeが使えるプラグイン「Claudian」で一変して快適に｜sutero（ステロ）.md",
+    "/Clippings",
+    "Clippings/「拡散的思考」は、AI時代のチートスキルだよ｜AI教室 Link Lab 1.md",
     "Clippings/AIは「思考停止」の道具じゃない。「思考を拡張」させるためのブースターだ。【アイデア拡散プロンプト付】｜佐藤旭｜40代の「AI×コンテンツ集客」専門家.md",
     "Clippings/【喋るだけ】AIを「自分の分身」にする方法｜AI×ナレッジ構築シリーズ第3回｜まき.md",
     "Clippings/1ヶ月で生産性10倍の衝撃！｜AI×ナレッジ構築シリーズ1回｜まき.md",
@@ -189,7 +210,6 @@
     "Clippings/Obsidian BasesとWeb ClipperでWebリンクのサムネイル付きカードビューが簡単に作れます｜teatown.md",
     "Clippings/四千万歩の先で、僕はエッセイをつらつら綴る｜相生エッセイ.md",
     "Clippings/Claude × Obsidian で「感情の跡」を残す仕組みを作る.md",
-    "{{image}}.md",
     "Clippings/ChatGPTでアイデア出しを無限に広げる方法【プロンプト例付き】.md",
     "Clippings/AIのアイデア出しが微妙なので、geminiと相談してアイデア出しの手法を確立させる｜S.H.normal.md",
     "Clippings"

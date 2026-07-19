@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2c42c1fca1c9b918",
@@ -262,7 +263,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa5e8a02b27552f3",
+  "active": "37249edd5a6b1f1b",
   "lastOpenFiles": [
     "meプロジェクト/構成案.md",
     "meプロジェクト/失敗談素材.md",

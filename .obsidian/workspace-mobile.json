@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meプロジェクト/構成案.md",
+                "file": "Clippings/Claude Codeの教科書 - AI秘書から始める爆速仕事術  イケハヤ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "構成案"
+              "title": "Claude Codeの教科書 - AI秘書から始める爆速仕事術  イケハヤ"
             }
           }
         ],
@@ -52,7 +52,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "ファイルエクスプローラ"
@@ -193,9 +195,10 @@
   },
   "active": "7869c29863733dbc",
   "lastOpenFiles": [
+    "meプロジェクト/構成案.md",
+    "Clippings/Claude Codeの教科書 - AI秘書から始める爆速仕事術  イケハヤ.md",
     "meプロジェクト/『ウイスキーと香水』.md",
     "Clippings/長野観光の新定番！長野の絶景ならソラテラス！ - 竜王マウンテンリゾート.md",
-    "meプロジェクト/構成案.md",
     "meプロジェクト/指示書.md",
     "meプロジェクト/失敗談素材.md",
     "meプロジェクト/『公園でお洗濯』.md",
@@ -223,7 +226,6 @@
     "Clippings/AIに「あなたらしい文章」を書いてもらう秘訣！ ｜AI×ナレッジ構築シリーズ2回｜まき.md",
     "Clippings/Obsidianとターミナルを連携してClaudeCode、Codex、Geminiを使う｜イージーテック.md",
     "Clippings/Pocket終了に備えてObsidian Web Clipperに移行した話.md",
-    "Clippings/Obsidian BasesとWeb ClipperでWebリンクのサムネイル付きカードビューが簡単に作れます｜teatown.md",
     "Clippings"
   ]
 }

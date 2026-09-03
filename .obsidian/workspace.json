@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meプロジェクト/構成案.md",
+                "file": "Clippings/長野観光の新定番！長野の絶景ならソラテラス！ - 竜王マウンテンリゾート.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "構成案"
+              "title": "長野観光の新定番！長野の絶景ならソラテラス！ - 竜王マウンテンリゾート"
             }
           }
         ],
@@ -112,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "ファイルエクスプローラ"
@@ -149,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2c42c1fca1c9b918",
@@ -265,28 +266,32 @@
   },
   "active": "37249edd5a6b1f1b",
   "lastOpenFiles": [
-    "meプロジェクト/指示書.md",
+    "Clippings/四千万歩の先で、僕はエッセイをつらつら綴る｜相生エッセイ.md",
+    "Clippings/Pocket終了に備えてObsidian Web Clipperに移行した話.md",
+    "Clippings/Obsidian内でClaudeCodeが使えるプラグイン「Claudian」で一変して快適に｜sutero（ステロ）.md",
+    "Clippings/Obsidianとターミナルを連携してClaudeCode、Codex、Geminiを使う｜イージーテック.md",
+    "Clippings/Obsidian BasesとWeb ClipperでWebリンクのサムネイル付きカードビューが簡単に作れます｜teatown.md",
+    "Clippings/NotebookLMを卒業してClaudeでポッドキャストを作るやり方  ライフハッカー・ジャパン.md",
+    "Clippings/Claude Codeの設定を複数のMacで同期する方法【Git+シンボリックリンク】｜KAWAI.md",
+    "Clippings/Claude Codeの教科書 - AI秘書から始める爆速仕事術  イケハヤ.md",
+    "Clippings/Claude × Obsidian で「感情の跡」を残す仕組みを作る.md",
+    "Clippings/ChatGPTでアイデア出しを無限に広げる方法【プロンプト例付き】.md",
+    "Clippings/AIは「思考停止」の道具じゃない。「思考を拡張」させるためのブースターだ。【アイデア拡散プロンプト付】｜佐藤旭｜40代の「AI×コンテンツ集客」専門家.md",
+    "Clippings/AIのアイデア出しが微妙なので、geminiと相談してアイデア出しの手法を確立させる｜S.H.normal.md",
+    "Clippings/AIに「あなたらしい文章」を書いてもらう秘訣！ ｜AI×ナレッジ構築シリーズ2回｜まき.md",
+    "Clippings/1ヶ月で生産性10倍の衝撃！｜AI×ナレッジ構築シリーズ1回｜まき.md",
+    "Clippings/【保存版】Claude Codeを会社PC・家PCで完全同期する3ステップ｜初心者でも20分で完了.md",
+    "Clippings/【喋るだけ】AIを「自分の分身」にする方法｜AI×ナレッジ構築シリーズ第3回｜まき.md",
+    "Clippings/「拡散的思考」は、AI時代のチートスキルだよ｜AI教室 Link Lab.md",
     "meプロジェクト/構成案.md",
+    "meプロジェクト/指示書.md",
     "meプロジェクト/失敗談素材.md",
     "meプロジェクト/『ウイスキーと香水』.md",
     "meプロジェクト/『公園でお洗濯』.md",
     "memo/Obsidianモバイルメモ.md",
     "meプロジェクト",
     "Clippings/長野観光の新定番！長野の絶景ならソラテラス！ - 竜王マウンテンリゾート.md",
-    "Clippings/NotebookLMを卒業してClaudeでポッドキャストを作るやり方  ライフハッカー・ジャパン.md",
-    "Clippings/Obsidian内でClaudeCodeが使えるプラグイン「Claudian」で一変して快適に｜sutero（ステロ）.md",
     "memo",
-    "Clippings/「拡散的思考」は、AI時代のチートスキルだよ｜AI教室 Link Lab.md",
-    "{{image}}.md",
-    "Clippings/【喋るだけ】AIを「自分の分身」にする方法｜AI×ナレッジ構築シリーズ第3回｜まき.md",
-    "Clippings/Pocket終了に備えてObsidian Web Clipperに移行した話.md",
-    "Clippings/Obsidianとターミナルを連携してClaudeCode、Codex、Geminiを使う｜イージーテック.md",
-    "Clippings/Obsidian BasesとWeb ClipperでWebリンクのサムネイル付きカードビューが簡単に作れます｜teatown.md",
-    "Clippings/Claude × Obsidian で「感情の跡」を残す仕組みを作る.md",
-    "Clippings/ChatGPTでアイデア出しを無限に広げる方法【プロンプト例付き】.md",
-    "Clippings/AIは「思考停止」の道具じゃない。「思考を拡張」させるためのブースターだ。【アイデア拡散プロンプト付】｜佐藤旭｜40代の「AI×コンテンツ集客」専門家.md",
-    "Clippings/AIのアイデア出しが微妙なので、geminiと相談してアイデア出しの手法を確立させる｜S.H.normal.md",
-    "Clippings/AIに「あなたらしい文章」を書いてもらう秘訣！ ｜AI×ナレッジ構築シリーズ2回｜まき.md",
-    "Clippings/1ヶ月で生産性10倍の衝撃！｜AI×ナレッジ構築シリーズ1回｜まき.md"
+    "{{image}}.md"
   ]
 }
